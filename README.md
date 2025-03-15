@@ -44,16 +44,13 @@ Use VS Code Live Server (if installed)
 
 📸 Screenshots:
 
-![Screenshot (21)](https://github.com/user-attachments/assets/a080bf39-2655-45f3-82cc-474973473b96)
+![Screenshot (21)](https://github.com/user-attachments/assets/fe2cb0e2-c0ae-42b5-8734-95dac8edd702)
 
+![Screenshot (22)](https://github.com/user-attachments/assets/0d498fab-5ac4-4e96-964b-60398b2a17da)
 
-![Screenshot (22)](https://github.com/user-attachments/assets/00fb285e-f2df-4ff8-8c40-f42926dbf464)
+![Screenshot (23)](https://github.com/user-attachments/assets/eb61d194-939b-4ee0-8c13-6edaa8829771)
 
-
-![Screenshot (23)](https://github.com/user-attachments/assets/d2ffff91-2cf4-4f8f-9c20-5cdb7f99ba20)
-
-
-![Screenshot (24)](https://github.com/user-attachments/assets/79b0e5b1-492a-4698-b178-2f6eeb81a4bc)
+![Screenshot (24)](https://github.com/user-attachments/assets/5c1a7177-dd5b-4761-a1bd-93596330455d)
 
 
 If you like this project, give it a ⭐ on GitHub!
