@@ -1,9 +1,9 @@
-About Caffe Bliss ☕✨
+### About Caffe Bliss ☕✨
 
 
 Caffe Bliss is a visually appealing and user-friendly café website designed to provide an elegant browsing experience for coffee lovers. It features a beautiful hero section, a well-structured menu, an engaging about section, customer testimonials, and an interactive contact page. The design is inspired by rich coffee tones, creating a warm and inviting feel.
 
-Key Features:
+### Key Features:
 
 
 ✔️ Smooth Navigation – Fixed navbar for easy access to all sections
@@ -17,7 +17,7 @@ Key Features:
 ✔️ Footer with Social Links – Connect with Caffe Bliss easily
 
 
-Project Setup & Execution 🛠️
+### Project Setup & Execution 🛠️
 
 
 🔹 Prerequisites:
@@ -42,7 +42,7 @@ Use VS Code Live Server (if installed)
 3. Enjoy Caffe Bliss! 🎉
 
 
-📸 Screenshots:
+### 📸 Screenshots:
 
 ![Screenshot (21)](https://github.com/user-attachments/assets/fe2cb0e2-c0ae-42b5-8734-95dac8edd702)
 
